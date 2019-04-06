@@ -1,0 +1,4 @@
+Here is a list of some useful links about LZW!
+
+https://rosettacode.org/wiki/Rosetta_Code:Solve_a_Task
+https://en.wikipedia.org/wiki/Lempel–Ziv–Welch
